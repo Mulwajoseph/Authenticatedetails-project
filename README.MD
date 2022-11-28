@@ -1,0 +1,1 @@
+my Mini project code for details authentication.
